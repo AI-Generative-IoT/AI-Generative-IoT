@@ -3,17 +3,17 @@ Generative IoT Modeling Software
 
 # Installation unter Linux und Mac Betriebssystemen
 *********************************************************************************************************************
-    git clone https://github.com/alexej-schelle/AtomLaser.git and start the software with AtomLaser.py
+    git clone https://github.com/IU-Generative-IoT/Main/tree/main and start the software with __init__.py
 *********************************************************************************************************************
 
 # Installation unter Windows Betriebssystemen
 *********************************************************************************************************************
-    Download files at https://github.com/alexej-schelle/AtomLaser/main/ and start the software with __init__.py
+    Download files at https://github.com/IU-Generative-IoT/Main/tree/main and start the software with __init__.py
 *********************************************************************************************************************
 
 # Dokumentation unter Linux, Mac und Windows Betriebssystemen
 *********************************************************************************************************************
-    git clone https://github.com/alexej-schelle/AtomLaser.git and read docs/README.txt
+    git clone https://github.com/IU-Generative-IoT/Main/tree/main and read docs/README.txt
 *********************************************************************************************************************
 
 # Dokumentierte Anwendungsszenarien
