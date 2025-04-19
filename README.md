@@ -19,13 +19,8 @@ Generative IoT Modeling Software
 # Dokumentierte Anwendungsszenarien
 *********************************************************************************************************************
 
-    - DigitsRecognizer
-    - HousePrices
-    - Monet
-    - Titanic
-    - TPU-Flowers
-    - TwitterCrash
-    - Watson
+    - Hauspreise
+    - Diamantpreise
     
 *********************************************************************************************************************
 
