@@ -26,13 +26,13 @@ durch den Bereitsteller der Software (Dr. A. Schelle mit IU Internationale Hochs
 
 # Dokumentierte Anwendungsszenarien für Vorhersagemodelle
 *********************************************************************************************************************
-    - Hauspreise
-    - Diamantpreise
+    - Vorhersagemodell für Hauspreise (/Hauspreise/)
+    - Vorhersagemodell für Diamantpreise (/Diamantpresie/)
 *********************************************************************************************************************
 
 # Weitere dokumentierte Anwendungsszenarien
 *********************************************************************************************************************
-    - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken    
+    - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken (/TextMailEncryption/)    
 *********************************************************************************************************************
 
 # Autoren
