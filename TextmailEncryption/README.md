@@ -33,6 +33,7 @@ Dieses Teilprojekt stellt eine Python Routine zur Verfügung, mithilfe derer man
    - Mert Köktürk
    - Renars Miculis
    - Sarah Rosa Werner
+   - Betül Yurtman
 
    et
 
