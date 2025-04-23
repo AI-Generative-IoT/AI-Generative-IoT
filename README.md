@@ -1,10 +1,7 @@
 # IU-Generative-IoT
-Generative IoT Modeling Software ist eine virtuelle Softwareumgebung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten 
-(Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine Software zur Modellierung von Umgebungsvariablen bereitstellt.
+Generative IoT Modeling Software ist eine virtuelle Softwareumgebung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine Software aus den wichtigsten technischen Komponenten zur Modellierung von Umgebungsvariablen bereitstellt.
 
-In diesem Kontext sind die wichtigsten Elemente und Softwarekomponenten, welche prinizipiell dem Datenschutz unterliegen, auf Anfrage unter alexej.schelle.ext@iu.org 
-zum Download bereitgestellt und für den Anwender unter einer MIT Lizenz frei verfügbar. Weitere Anwendungsszenarien können auf Anfrage bereitgestellt werden bzw. sind durch 
-den Administrator der Software (Univ. Doz. Dr. A. Schelle) als Anwendung zur Modellierung freigegeben.
+In diesem Kontext werden die wichtigsten Elemente der IoT-Modellierungssoftware auf Anfrage unter alexej.schelle.ext@iu.org zum Download unter einer MIT Lizenz bereitgestellt. 
 
 # Installation unter Linux und Mac Betriebssystemen
 *********************************************************************************************************************
