@@ -37,5 +37,9 @@ durch den Bereitsteller der Software (Dr. A. Schelle mit IU Internationale Hochs
 
 # Autoren
 *********************************************************************************************************************
+    IU Internationale Hochschule 
+    
+    et
+    
     Univ.-Doz. Dr. Alexej Schelle
 *********************************************************************************************************************
