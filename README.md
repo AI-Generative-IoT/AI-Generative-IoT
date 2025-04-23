@@ -18,7 +18,7 @@ In diesem Kontext werden die Elemente der IoT-Modellierungssoftware dem interess
     git clone https://github.com/IU-Generative-IoT/Main/tree/main and read docs/README.txt
 *********************************************************************************************************************
 
-# Dokumentierte Anwendungsszenarien für generative Vorhersagemodelle
+# Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
 *********************************************************************************************************************
     - Vorhersagemodell zur Analyse von Katastrophen durch Twitter Sentiment Analyse
     - Vorhersagemodell für Diamantpreise
