@@ -20,13 +20,13 @@ In diesem Kontext werden die Elemente der IoT-Modellierungssoftware dem interess
 
 # Dokumentierte Anwendungsszenarien für generative Vorhersagemodelle
 *********************************************************************************************************************
+    - Vorhersagemodell zur Analyse von Katastrophen durch Twitter Sentiment Analyse
     - Vorhersagemodell für Diamantpreise
     - Vorhersagemodell für Hauspreise
-    - Vorhersagemodell für Zifferndarstellungen
-    - Vorhersagemodell zur Modellierung von Passagierbesetzungen bei Schiffsunglücken
     - Vorhersagemodell zur Klassifizierung von Blumen
-    - Vorhersagemodell zur Analyse von Katastrophen durch Twitter Sentiment Analyse
     - Vorhersagemodell zur Klassifizierung von Stilrichtungen bei Gemälden
+    - Vorhersagemodell zur Modellierung von Passagierbesetzungen bei Schiffsunglücken
+    - Vorhersagemodell für Zifferndarstellungen
 *********************************************************************************************************************
 
 # Weitere dokumentierte Anwendungsszenarien
