@@ -37,7 +37,7 @@ In diesem Kontext werden die Elemente der IoT-Modellierungssoftware dem interess
 *********************************************************************************************************************
     IU Internationale Hochschule 
     
-    et
+    mit
     
     Univ.-Doz. Dr. Alexej Schelle
 *********************************************************************************************************************
