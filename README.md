@@ -3,40 +3,33 @@ IU Generative IoT Modeling Software ist eine virtuelle Softwareumgebung, welche 
 
 In diesem Kontext werden die Elemente der IoT-Modellierungssoftware dem interessierten Nutzer einzeln auf Anfrage unter alexej.schelle.ext@iu.org zum Download unter einer MIT Lizenz bereitgestellt. 
 
-# Installation unter Linux und Mac Betriebssystemen
-*********************************************************************************************************************
-    git clone https://github.com/IU-Generative-IoT/Main/tree/main and start the software with __init__.py
-*********************************************************************************************************************
-
-# Installation unter Windows Betriebssystemen
-*********************************************************************************************************************
-    Download files at https://github.com/IU-Generative-IoT/Main/tree/main and start the software with __init__.py
-*********************************************************************************************************************
-
-# Dokumentation unter Linux, Mac und Windows Betriebssystemen
-*********************************************************************************************************************
-    git clone https://github.com/IU-Generative-IoT/Main/tree/main and read docs/README.txt
-*********************************************************************************************************************
-
 # Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
 *********************************************************************************************************************
-    - Vorhersagemodell zur Analyse von Katastrophen durch Twitter Sentiment Analyse
-    - Vorhersagemodell für Diamantpreise
-    - Vorhersagemodell für Hauspreise
-    - Vorhersagemodell zur Klassifizierung von Blumen
-    - Vorhersagemodell zur Klassifizierung von Stilrichtungen bei Gemälden
-    - Vorhersagemodell zur Modellierung von Passagierbesetzungen bei Schiffsunglücken
-    - Vorhersagemodell für Zifferndarstellungen
+    - Analyse von Katastrophen durch Twitter Sentiment Analyse
+    - Berechnungsmodell für Diamantenpreise
+    - Modellierung von Hauspreisen
+    - Klassifizierung von Blumen
+    - Klassifizierung von Stilrichtungen bei Gemälden
+    - Modellierung von Passagierbesetzungen bei Schiffsunglücken
+    - Klassifizierung von Zifferndarstellungen
 *********************************************************************************************************************
 
-# Weitere dokumentierte Anwendungsszenarien
+# Dokumentierte Anwendungsszenarien für Analytik
 *********************************************************************************************************************
     - Analyse von Daten zur Charakterisierung von Zugverspätungen mit Shinkansen Travel
     - Analysetool zur Auswertung von NLP generiertem Text aus Sprachprozessoren
     - Berechnung von Josephson Stromzuständen in Bose-Einstein Kondensaten
+*********************************************************************************************************************
+
+# Dokumentierte Anwendungsszenarien für Cyber Security
+*********************************************************************************************************************
     - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken
     - Modellierung von Generativen Gegenrischen Netzwerken in der Gaußschen Zahlenebene
     - Software zur Optimierung von Informationsübertragung von Webseiten zu Suchmaschinen
+*********************************************************************************************************************
+
+# Lehrmaterialien
+*********************************************************************************************************************
     - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science"
 *********************************************************************************************************************
 
