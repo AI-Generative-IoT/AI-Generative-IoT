@@ -6,32 +6,33 @@ In diesem Kontext werden die Elemente der IoT-Modellierungssoftware dem interess
 
 # Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
 *********************************************************************************************************************
-    - Analyse von Katastrophen durch Twitter Sentiment Analyse
-    - Berechnungsmodell für Diamantenpreise
-    - Modellierung von Hauspreisen
-    - Klassifizierung von Blumen
-    - Klassifizierung von Stilrichtungen bei Gemälden
-    - Modellierung von Passagierbesetzungen bei Schiffsunglücken
-    - Klassifizierung von Zifferndarstellungen
+    - Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
+    - Modellierung von Hauspreisen (HousePrices)
+    - Klassifizierung von Blumen (TPU-Flowers)
+    - Klassifizierung von Stilrichtungen bei Gemälden (Monet)
+    - Modellierung von Passagierbesetzungen bei Schiffsunglücken (Titanic)
+    - Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
 *********************************************************************************************************************
 
 # Dokumentierte Anwendungsszenarien für Analytik
 *********************************************************************************************************************
-    - Analyse von Daten zur Charakterisierung von Zugverspätungen mit Shinkansen Travel
-    - Analysetool zur Auswertung von NLP generiertem Text aus Sprachprozessoren
-    - Berechnung von Josephson Stromzuständen in Bose-Einstein Kondensaten
+    - Analyse von Daten zur Charakterisierung von Zugverspätungen mit Shinkansen Travel (ShinkansenTravel)
+    - Analysetool zur Auswertung von NLP generiertem Text aus Sprachprozessoren (Watson)
+    - Berechnung von Josephson Stromzuständen in Bose-Einstein Kondensaten (BEC-Josephson)
 *********************************************************************************************************************
 
 # Dokumentierte Anwendungsszenarien für Cyber Security
 *********************************************************************************************************************
-    - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken
-    - Modellierung von Generativen Gegenrischen Netzwerken in der Gaußschen Zahlenebene
-    - Software zur Optimierung von Informationsübertragung von Webseiten zu Suchmaschinen
+    - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken (TextMailEncryption)
+    - Marketing Analysen und Vorhersagemodelle für Verkaufszahlen (Marketing-GAN)
+    - Modellierung von Generativen Gegnerischen Netzwerken in der Gaußschen Zahlenebene (Complex-GAN)
+    - Software zur Optimierung von Informationsübertragung von Webseiten auf Suchmaschinen (IDR-Optimizer)
 *********************************************************************************************************************
 
 # Lehrmaterialien
 *********************************************************************************************************************
-    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science"
+    - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
+    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
 *********************************************************************************************************************
 
 # Autoren
