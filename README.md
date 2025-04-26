@@ -8,9 +8,9 @@ mit einer vereinbarten Lizenz zum Login und Download bereitgestellt.
 # Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
 *********************************************************************************************************************
     - Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
-    - Modellierung von Hauspreisen (HousePrices)
     - Klassifizierung von Blumen (TPU-Flowers)
     - Klassifizierung von Stilrichtungen bei Gemälden (Monet)
+    - Modellierung von Hauspreisen (HousePrices)
     - Modellierung von Passagierbesetzungen bei Schiffsunglücken (Titanic)
     - Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
 *********************************************************************************************************************
