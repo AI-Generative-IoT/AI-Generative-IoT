@@ -10,9 +10,9 @@ mit einer vereinbarten Lizenz zum Login und Download bereitgestellt.
     - Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
     - Klassifizierung von Blumen (TPU-Flowers)
     - Klassifizierung von Stilrichtungen bei Gemälden (Monet)
+    - Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
     - Modellierung von Hauspreisen (HousePrices)
     - Modellierung von Passagierbesetzungen bei Schiffsunglücken (Titanic)
-    - Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
 *********************************************************************************************************************
 
 # Dokumentierte Anwendungsszenarien für Analytik
