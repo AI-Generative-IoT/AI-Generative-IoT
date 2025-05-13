@@ -33,7 +33,8 @@ mit einer vereinbarten Lizenz zum Login und Download bereitgestellt.
 # Lehrmaterialien
 *********************************************************************************************************************
     - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
-    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
+    - Supervised and Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
+    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (Introduction To Data Science)
 *********************************************************************************************************************
 
 # Autoren
