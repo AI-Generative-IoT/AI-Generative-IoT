@@ -33,8 +33,8 @@ mit einer vereinbarten Lizenz zum Login und Download bereitgestellt.
 # Lehrmaterialien
 *********************************************************************************************************************
     - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
-    - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand
     - Supervised and Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
+    - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand
     - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (Introduction To Data Science)
 *********************************************************************************************************************
 
