@@ -1,9 +1,8 @@
 # IU-Generative-IoT
-IU Generative IoT Modeling Software ist eine virtuelle Softwareumgebung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine Software 
-mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT Umgebungsvariablen bereitstellt.
+IU Generative IoT Modeling Software ist eine Softwareumgebung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine manuelle, nicht-automatisierte Software 
+mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
 
-In diesem Kontext werden die Elemente (Repositories) der IoT-Modellierungssoftware dem interessierten Nutzer auch mit generischen Daten einzeln auf Anfrage unter alexej.schelle.ext@iu.org in Absprache mit dem Dozenten und den jeweiligen Entwicklern 
-mit einer vereinbarten Lizenz zum Login und Download bereitgestellt. 
+Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten Nutzer mit generischen, spezifischen Daten auf Anfrage unter alexej.schelle.ext@iu.org in Absprache mit dem Dozenten und den jeweiligen Entwicklern mit einer vereinbarten Lizenz zum Login und Download bereitgestellt. Wir erreichen durch einen AI-unterstützten Ansatz die Modellierung von Umgebungsvariablen für beliebigen Anwendungsszenarien durch die Generierung von Daten aus AI-Applikationen wie ChatGPT zur Modellierung von Vorhersagen aus spezifisch entwickleten ML Modellen.
 
 # Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
 *********************************************************************************************************************
