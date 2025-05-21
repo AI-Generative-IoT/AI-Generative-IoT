@@ -25,8 +25,8 @@ mit einer vereinbarten Lizenz zum Login und Download bereitgestellt.
 # Dokumentierte Anwendungsszenarien für Cyber Security
 *********************************************************************************************************************
     - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken (TextMailEncryption)
-    - Marketing Analysen und Vorhersagemodelle für Verkaufszahlen (Marketing-GAN)
-    - Modellierung von Generativen Gegnerischen Netzwerken in der Gaußschen Zahlenebene (Complex-GAN)
+    - Marketing Analysen und Vorhersagemodelle für Verkaufszahlen (MarketingGAN)
+    - Modellierung von Generativen Gegnerischen Netzwerken in der Gaußschen Zahlenebene (ComplexGAN)
     - Software zur Optimierung von Informationsübertragung von Webseiten auf Suchmaschinen (IDR-Optimizer)
 *********************************************************************************************************************
 
@@ -35,7 +35,7 @@ mit einer vereinbarten Lizenz zum Login und Download bereitgestellt.
     - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
     - Supervised and Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
     - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand
-    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (Introduction To Data Science)
+    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
 *********************************************************************************************************************
 
 # Autoren
