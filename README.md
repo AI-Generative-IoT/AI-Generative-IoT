@@ -18,8 +18,9 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
 *********************************************************************************************************************
     - Analyse von Daten zur Charakterisierung von Zugverspätungen mit Shinkansen Travel (ShinkansenTravel)
     - Analysetool zur Auswertung von NLP generiertem Text aus Sprachprozessoren (Watson)
+    - Analysebeispiel zur Erkennung von Geldwäsche Techniken (IBM Transaction Data)
     - Berechnung von Josephson Stromzuständen in Bose-Einstein Kondensaten (BEC-Josephson)
-*********************************************************************************************************************
+ ********************************************************************************************************************
 
 # Dokumentierte Anwendungsszenarien für Cyber Security
 *********************************************************************************************************************
@@ -31,6 +32,7 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
 
 # Lehrmaterialien
 *********************************************************************************************************************
+    - Anwendungsszenarien für Datenanalytik in Python Pandas (Datenmodellierung unnd Datenbanksysteme)
     - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
     - Supervised und Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
     - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand
