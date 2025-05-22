@@ -35,7 +35,8 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
     - Anwendungsszenarien für Datenanalytik in Python Pandas (Datenmodellierung unnd Datenbanksysteme)
     - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
     - Supervised und Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
-    - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand
+    - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand 
+      (Grundlagend der Elektronik)
     - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
 *********************************************************************************************************************
 
