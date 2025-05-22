@@ -7,6 +7,7 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
 # Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
 *********************************************************************************************************************
     - Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
+    - Data Science Lifecycle für Energieverbrauch von Privathaushalten (EnergyConsumption)
     - Klassifizierung von Blumen (TPU-Flowers)
     - Klassifizierung von Stilrichtungen bei Gemälden (Monet)
     - Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
