@@ -6,13 +6,13 @@ Das Electronic Handbook of Data Science ist ein elektronisches Handbuch, welches
 
 Die Entwicklung des Handbuchs umfasst auch generative Modelle für realistische Anwendungsfälle, die aus künstlich erzeugten Daten generiert werden, welche ihrerseits generisch aus Originaldatenquellen abgeleitet sind und unter Github.com zur Verfügung gestellt werden.
 
-# Informationen für Leser:innen:
+Informationen für Leser:innen:
 
 Peer-Review und redaktionelle Dienstleistungen des Editor von The Electronic Handbook of Data Science sind für Leser:innen vollständig kostenlos.
 
 Interessierte Unternehmen und Leser:innen werden hiermit ermutigt, der Hauptseite des Handbuchs und des Herausgebers sowie den Geschichten der Autor:innen offiziell über die angefügten Folgen- und Klatsch-Buttons zu folgen.
 
-# Informationen für Beitragende:
+Informationen für Beitragende:
 
 The Electronic Handbook of Data Science ermöglicht es Autor:innen, sich unabhängig als Schreibende für das Journal zu registrieren – jedoch ohne Garantie auf Annahme von Artikeln (Peer Review) und ohne vertragliche Bindung an das Journal oder den Herausgeber als Angestellte oder freiberufliche Mitarbeiter.
 
