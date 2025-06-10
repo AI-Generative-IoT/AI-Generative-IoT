@@ -2,23 +2,23 @@
 
 *********************************************************************************************************************
 
-Das Elektronische Handbuch der Data Science ist ein elektronisches Handbuch, das Wissen, Neuigkeiten und Trends im Bereich Data Science berichtet. Es ist unterteilt in Algorithmen, Datenstrukturen, Maschinelles Lernen, Programmiersprachen und Software und ermöglicht insbesondere auch durch NLP generierte Nutzer-Geschichten.
+Das Electronic Handbook of Data Science ist ein elektronisches Handbuch, welches Wissen, Neuigkeiten und Trends im Bereich Data Science berichtet. Es ist unterteilt in die Themen Algorithmen, Datenstrukturen, Maschinelles Lernen, Programmiersprachen und Software, und erlaubt insbesondere die Publikation von NLP generierten Nutzer-Geschichten und Anwendungen.
 
-Die Entwicklung des Handbuchs umfasst generative Modelle für realistische Anwendungsfälle, die aus künstlich erzeugten Daten generiert werden, welche ihrerseits generisch aus Originaldatenquellen abgeleitet sind.
+Die Entwicklung des Handbuchs umfasst auch generative Modelle für realistische Anwendungsfälle, die aus künstlich erzeugten Daten generiert werden, welche ihrerseits generisch aus Originaldatenquellen abgeleitet sind und unter Github.com zur Verfügung gestellt werden.
 
-Informationen für Leser:innen:
+# Informationen für Leser:innen:
 
-Peer-Review und redaktionelle Dienstleistungen des Elektronischen Handbuchs der Data Science sind für Leser:innen vollständig kostenlos.
+Peer-Review und redaktionelle Dienstleistungen des Editor von The Electronic Handbook of Data Science sind für Leser:innen vollständig kostenlos.
 
-Interessierte Unternehmen und Leser:innen werden ermutigt, der Hauptseite des Handbuchs und des Herausgebers sowie den Geschichten der Autor:innen offiziell über die angefügten Folgen- und Klatsch-Buttons zu folgen.
+Interessierte Unternehmen und Leser:innen werden hiermit ermutigt, der Hauptseite des Handbuchs und des Herausgebers sowie den Geschichten der Autor:innen offiziell über die angefügten Folgen- und Klatsch-Buttons zu folgen.
 
-Informationen für Beitragende:
+# Informationen für Beitragende:
 
-Das Elektronische Handbuch der Data Science ermöglicht es Autor:innen, sich unabhängig als Schreibende für das Journal zu registrieren – jedoch ohne Garantie auf Annahme von Artikeln und ohne vertragliche Bindung an das Journal oder den Herausgeber.
+The Electronic Handbook of Data Science ermöglicht es Autor:innen, sich unabhängig als Schreibende für das Journal zu registrieren – jedoch ohne Garantie auf Annahme von Artikeln (Peer Review) und ohne vertragliche Bindung an das Journal oder den Herausgeber als Angestellte oder freiberufliche Mitarbeiter.
 
-Beitragende, die daran interessiert sind, Geschichten als unabhängige Autor:innen über ihren Arbeitsalltag oder die Entwicklung eigener Data-Science-Projekte zu veröffentlichen, können eine Anfrage an ejp@krealix.de senden.
+Beitragende, die daran interessiert sind, Anwendungsfälle und Stories als unabhängige Autor:innen über ihren Arbeitsalltag oder die Entwicklung eigener Data Science Projekte zu veröffentlichen, und damit insbesondere die Entwicklung von generativen Datenmodellen zu unterstützen, können dies durch eine Anfrage an ejp@krealix.de realisieren.
 
-Die Begutachtung (Peer Review) zur Annahme oder Ablehnung erfolgt innerhalb von zwei bis vier Wochen nach Einreichung durch offiziell registrierte Autor:innen.
+Die Begutachtung (Peer Review) zur Annahme oder Ablehnung erfolgt innerhalb von zwei bis vier Wochen nach Einreichung durch offiziell registrierte Autor:innen durch den Editor (Dr. A. Schelle).
 
 *********************************************************************************************************************
 
