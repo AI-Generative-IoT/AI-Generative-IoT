@@ -101,13 +101,13 @@ mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT
 
 # Lehrmaterialien
 
-    - Anwendungsszenarien für Datenanalytik in Python Pandas (Datenmodellierung unnd Datenbanksysteme)
-    - Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
-    - Supervised und Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
-    - Übungen in Python zum IU Modul Algorithmen, Datenstrukturen und Programmiersprachen
-    - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand 
+- Anwendungsszenarien für Datenanalytik in Python Pandas (Datenmodellierung unnd Datenbanksysteme)
+- Elementare Beispiele zur Modellierung von Daten mit ML Algorithmen in Sklearn (ML-Standards)
+- Supervised und Unsupervised Learning Methoden aus Scikit-Learn (SL-USL-Standards)
+- Übungen in Python zum IU Modul Algorithmen, Datenstrukturen und Programmiersprachen
+- Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand 
       (Grundlagen der Elektronik)
-    - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
+- Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
 
 # Autoren
 
