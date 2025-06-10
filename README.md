@@ -1,4 +1,5 @@
 # The Electronic Handbook of Data Science
+*********************************************************************************************************************
 The Electronic Handbook of Data Science is an electronic handbook that reports knowledge, news, and trends in Data Science. It is divided into Algorithms, Data Structures, Machine Learning, Programming Languages, and Software, and, in particular, allows for NLP-generated user stories.
 
 The development of the handbook includes generative models for realistic use cases that are sampled from artificial data derived generically from original data sources.
@@ -18,6 +19,7 @@ Contributors who are interested in publishing stories as an independent author a
 Peer review before acceptance or rejection is performed within two to four weeks after submission by officially subscribed authors.
 
 # AI-Generative-IoT
+*********************************************************************************************************************
 AI Generative IoT Modeling Software ist eine Softwareumgebung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine manuelle, nicht-automatisierte Software 
 mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
 
