@@ -48,9 +48,9 @@ Using an AI-assisted approach, we achieve the modeling of a wide range of enviro
 
 # AI-Generative-IoT 
 
-AI Generative IoT Modeling Software ist eine Softwareumgebung, welche als Ziel die Entwicklung einer Bibliothek mit künstlichen Daten hat, welche durch generative Modelle in Python entwickelt wurden und dem Anwender als Download zur Verfügung gestellt werden sollen. Generische Modelle werden dabei dadurch erzeugt, dass man aus originalen Daten unter der Verwendnung der korrekten Skalierungsgesetze und statistischen Grundlagen, synthetische Daten bereitstellt, die mittels intelligenten Vorhersagemodellen durch ML Methoden statistische Kennzahlen für vorgegebene Parameterbereiche berechnen können.
+AI Generative IoT Modeling Software ist eine Softwareumgebung, welche als Ziel im Rahmen von *The Electronic Handbook of Data Science* die Entwicklung einer Bibliothek mit künstlichen Daten zum Ziel hat, welche durch generative Modelle in Python entwickelt und dem Anwender als Download zur Verfügung gestellt werden sollen. Generische Modelle werden dabei dadurch erzeugt, dass man aus originalen Daten unter der Verwendnung der korrekten Skalierungsgesetze und statistischen Grundlagen, synthetische Daten bereitstellt, die mittels intelligenten Vorhersagemodellen durch ML Methoden statistische Kennzahlen für vorgegebene Parameterbereiche berechnen können.
 
-Durch die Anwendung der derart entwickelten Modelle können auch grundsätzlich beliebige Anwendungsszenarien modelliert und getestet werden.
+Durch die Anwendungen der auf diese Art entwickelten Modelle können grundsätzlich beliebige Anwendungsszenarien modelliert und getestet werden.
 
 # AI-Generative-IoT from IU Internationale Hochschule
 
