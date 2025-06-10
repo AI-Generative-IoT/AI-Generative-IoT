@@ -82,6 +82,23 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
     - Modellierung von Generativen Gegnerischen Netzwerken in der Gaußschen Zahlenebene (ComplexGAN)
     - Software zur Optimierung von Informationsübertragung von Webseiten auf Suchmaschinen (IDR-Optimizer)
 
+# AI-Generative-IoT aus Constructor University
+
+Im Folgenden eine Zusammenstellung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) an der Constructor University eine manuelle, nicht-automatisierte Software 
+mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
+
+- AI Predictive Maintenance: A Machine Failure Prediction Approach
+- Customer-Churn Prediction for an Iranian Telecom Company
+- Data Mining Approach on Amazon Dataset
+- Data Mining and Machine Learning Approach Using Clickstream Data 
+- Entropy Based Analysis of Information Reduction and Predictability
+- Flood Assessment Analysis from Google Data 
+- Heart Disease Risk Analysis
+- Predictive Analysis and Customer Segmentation of Customer Retail Data
+- Predictive Model for Shipping Delay and Freight Cost
+- RFM Segmentation and Predictive Modeling for Customer Related Data
+- Sentiment Analysis of Tesla Tweets: Leveraging XGBoost for Social Media Insights
+
 # Lehrmaterialien
 
     - Anwendungsszenarien für Datenanalytik in Python Pandas (Datenmodellierung unnd Datenbanksysteme)
@@ -91,27 +108,6 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
     - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand 
       (Grundlagen der Elektronik)
     - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
-
-# AI-Generative-IoT aus Constructor University
-
-Im Folgenden eine Zusammenstellung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) an der Constructor University eine manuelle, nicht-automatisierte Software 
-mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
-
-# Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle aus IU Internationale Hochschule
-
-...
-
-# Dokumentierte Anwendungsszenarien für Analytik
-
-...
-
-# Dokumentierte Anwendungsszenarien für Cyber Security
-
-...
-
-# Lehrmaterialien
-
-...
 
 # Autoren
 
