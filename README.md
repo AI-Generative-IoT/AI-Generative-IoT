@@ -60,27 +60,27 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
 
 # Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle aus IU Internationale Hochschule
 
-    - Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
-    - Data Science Lifecycle für Energieverbrauch von Privathaushalten (EnergyConsumption)
-    - Klassifizierung von Blumen (TPU-Flowers)
-    - Klassifizierung von Stilrichtungen bei Gemälden (Monet)
-    - Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
-    - Modellierung von Hauspreisen (HousePrices)
-    - Modellierung von Passagierbesetzungen bei Schiffsunglücken (Titanic)
+- Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
+- Data Science Lifecycle für Energieverbrauch von Privathaushalten (EnergyConsumption)
+- Klassifizierung von Blumen (TPU-Flowers)
+- Klassifizierung von Stilrichtungen bei Gemälden (Monet)
+- Klassifizierung von Zifferndarstellungen (DigitsRecognizer)
+- Modellierung von Hauspreisen (HousePrices)
+- Modellierung von Passagierbesetzungen bei Schiffsunglücken (Titanic)
 
 # Dokumentierte Anwendungsszenarien für Analytik
 
-    - Analyse von Daten zur Charakterisierung von Zugverspätungen mit Shinkansen Travel (ShinkansenTravel)
-    - Analysetool zur Auswertung von NLP generiertem Text aus Sprachprozessoren (Watson)
-    - Analysebeispiel zur Erkennung von Geldwäsche Techniken (IBM Transaction Data)
-    - Berechnung von Josephson Stromzuständen in Bose-Einstein Kondensaten (BEC-Josephson)
+- Analyse von Daten zur Charakterisierung von Zugverspätungen mit Shinkansen Travel (ShinkansenTravel)
+- Analysetool zur Auswertung von NLP generiertem Text aus Sprachprozessoren (Watson)
+- Analysebeispiel zur Erkennung von Geldwäsche Techniken (IBM Transaction Data)
+- Berechnung von Josephson Stromzuständen in Bose-Einstein Kondensaten (BEC-Josephson)
  
 # Dokumentierte Anwendungsszenarien für Cyber Security
 
-    - E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken (TextMailEncryption)
-    - Marketing Analysen und Vorhersagemodelle für Verkaufszahlen (MarketingGAN)
-    - Modellierung von Generativen Gegnerischen Netzwerken in der Gaußschen Zahlenebene (ComplexGAN)
-    - Software zur Optimierung von Informationsübertragung von Webseiten auf Suchmaschinen (IDR-Optimizer)
+- E-Mail Verschlüsselung mit Generativen Konkurrierenden Netzwerken (TextMailEncryption)
+- Marketing Analysen und Vorhersagemodelle für Verkaufszahlen (MarketingGAN)
+- Modellierung von Generativen Gegnerischen Netzwerken in der Gaußschen Zahlenebene (ComplexGAN)
+- Software zur Optimierung von Informationsübertragung von Webseiten auf Suchmaschinen (IDR-Optimizer)
 
 # AI-Generative-IoT aus Constructor University
 
