@@ -16,7 +16,7 @@ The Electronic Handbook of Data Science ermöglicht es Autor:innen, sich unabhä
 
 Beitragende, die daran interessiert sind, Anwendungsfälle und Stories als unabhängige Autor:innen über ihren Arbeitsalltag oder die Entwicklung eigener Data Science Projekte zu veröffentlichen, und damit insbesondere die Entwicklung von generativen Datenmodellen zu unterstützen, können dies durch eine Anfrage an ejp@krealix.de realisieren.
 
-Die Begutachtung (Peer Review) zur Annahme oder Ablehnung erfolgt innerhalb von zwei bis vier Wochen nach Einreichung durch offiziell registrierte Autor:innen durch den Editor (Dr. A. Schelle).
+Die Begutachtung (Peer Review) zur Annahme oder Ablehnung von Artikeln erfolgt innerhalb von zwei bis vier Wochen nach Einreichung durch offiziell registrierte Autor:innen durch den Editor (Dr. A. Schelle).
 
 # AI-Generative-IoT
 
