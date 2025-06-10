@@ -48,12 +48,18 @@ Using an AI-assisted approach, we achieve the modeling of a wide range of enviro
 
 # AI-Generative-IoT 
 
-AI Generative IoT Modeling Software ist eine Softwareumgebung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine manuelle, nicht-automatisierte Software 
+AI Generative IoT Modeling Software ist eine Softwareumgebung, welche als Ziel die Entwicklung einer Bibliothek mit künstlichen Daten hat, welche durch generative Modelle in Python entwickelt wurden und dem Anwender als Download zur Verfügung gestellt werden sollen. Generische Modelle werden dabei dadurch erzeugt, dass man aus originalen Daten unter der Verwendnung der korrekten Skalierungsgesetze und statistischen Grundlagen, synthetische Daten bereitstellt, die mittels intelligenten Vorhersagemodellen durch ML Methoden statistische Kennzahlen für vorgegebene Parameterbereiche berechnen können.
+
+Durch die Anwendung der derart entwickelten Modelle können auch grundsätzlich beliebige Anwendungsszenarien modelliert und getestet werden.
+
+# AI-Generative-IoT from IU Internationale Hochschule
+
+Im Folgenden eine Zusammenstellung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine manuelle, nicht-automatisierte Software 
 mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
 
 Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten Nutzer mit generischen, spezifischen Daten auf Anfrage unter alexej.schelle.ext@iu.org in Absprache mit dem Dozenten und den jeweiligen Entwicklern mit einer vereinbarten Lizenz zum Login und Download bereitgestellt. Wir erreichen durch einen AI-unterstützten Ansatz die Modellierung einer Vielzahl von Umgebungsvariablen für beliebige Anwendungsszenarien durch die Generierung von Daten aus künstlicher Intelligenz von AI-Applikationen wie ChatGPT zur Modellierung von Vorhersagen aus spezifisch entwickleten ML Modellen.
 
-# Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle
+# Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle aus IU Internationale Hochschule
 
     - Analyse von Katastrophen durch Twitter Sentiment Analyse (TwitterCrash)
     - Data Science Lifecycle für Energieverbrauch von Privathaushalten (EnergyConsumption)
