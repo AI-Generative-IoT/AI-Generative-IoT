@@ -52,10 +52,9 @@ AI Generative IoT Modeling Software ist eine Softwareumgebung, welche als Ziel i
 
 Durch die Anwendungen der auf diese Art entwickelten Modelle können grundsätzlich beliebige Anwendungsszenarien modelliert und getestet werden.
 
-# AI-Generative-IoT from IU Internationale Hochschule
+# AI-Generative-IoT aus IU Internationale Hochschule
 
-Im Folgenden eine Zusammenstellung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) eine manuelle, nicht-automatisierte Software 
-mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
+Im Folgenden eine Zusammenstellung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) an der IU Internationalen Hochschule eine manuelle, nicht-automatisierte Software mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
 
 Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten Nutzer mit generischen, spezifischen Daten auf Anfrage unter alexej.schelle.ext@iu.org in Absprache mit dem Dozenten und den jeweiligen Entwicklern mit einer vereinbarten Lizenz zum Login und Download bereitgestellt. Wir erreichen durch einen AI-unterstützten Ansatz die Modellierung einer Vielzahl von Umgebungsvariablen für beliebige Anwendungsszenarien durch die Generierung von Daten aus künstlicher Intelligenz von AI-Applikationen wie ChatGPT zur Modellierung von Vorhersagen aus spezifisch entwickleten ML Modellen.
 
@@ -92,6 +91,27 @@ Elemente (Repositories) der IoT-Modellierungssoftware werden dem interessierten 
     - Übungsbeispiele zur Modellierung von Verteilungen zu Kenngrößen wie Induktivität, Strom, Spannung, Widerstand 
       (Grundlagen der Elektronik)
     - Zusammenfassung von Übungsbeispielen zur Kurseinheit "Einführung in Data Science" (IntroductionToDataScience)
+
+# AI-Generative-IoT aus Constructor University
+
+Im Folgenden eine Zusammenstellung, welche aus den Projekten und dem Know-How vielzähliger Studentenarbeiten (Praxisprojekte, Seminare, Hausarbeiten, Bachelor- und Masterarbeiten) an der Constructor University eine manuelle, nicht-automatisierte Software 
+mit den wichtigsten technischen Komponenten zur Modellierung von generativen IoT-Umgebungsvariablen bereitstellt.
+
+# Dokumentierte Anwendungsszenarien für Generative Vorhersagemodelle aus IU Internationale Hochschule
+
+...
+
+# Dokumentierte Anwendungsszenarien für Analytik
+
+...
+
+# Dokumentierte Anwendungsszenarien für Cyber Security
+
+...
+
+# Lehrmaterialien
+
+...
 
 # Autoren
 
