@@ -6,7 +6,7 @@ Die Entwicklung des Handbuchs umfasst auch generative Modelle für realistische 
 
 *Informationen für Leser:innen:*
 
-Peer-Review und redaktionelle Dienstleistungen des Editor von The Electronic Handbook of Data Science sind für Leser:innen vollständig kostenlos.
+Peer-Review und redaktionelle Dienstleistungen des Editors von The Electronic Handbook of Data Science sind für Leser:innen vollständig kostenlos.
 
 Interessierte Unternehmen und Leser:innen werden hiermit ermutigt, der Hauptseite des Handbuchs und des Herausgebers sowie den Geschichten der Autor:innen offiziell über die angefügten Folgen- und Klatsch-Buttons zu folgen.
 
