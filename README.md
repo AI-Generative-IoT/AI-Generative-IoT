@@ -2,23 +2,23 @@
 
 *********************************************************************************************************************
 
-The Electronic Handbook of Data Science is an electronic handbook that reports knowledge, news, and trends in Data Science. It is divided into Algorithms, Data Structures, Machine Learning, Programming Languages, and Software, and, in particular, allows for NLP-generated user stories.
+Das Elektronische Handbuch der Data Science ist ein elektronisches Handbuch, das Wissen, Neuigkeiten und Trends im Bereich Data Science berichtet. Es ist unterteilt in Algorithmen, Datenstrukturen, Maschinelles Lernen, Programmiersprachen und Software und ermöglicht insbesondere auch durch NLP generierte Nutzer-Geschichten.
 
-The development of the handbook includes generative models for realistic use cases that are sampled from artificial data derived generically from original data sources.
+Die Entwicklung des Handbuchs umfasst generative Modelle für realistische Anwendungsfälle, die aus künstlich erzeugten Daten generiert werden, welche ihrerseits generisch aus Originaldatenquellen abgeleitet sind.
 
-Information for readers:
+Informationen für Leser:innen:
 
-Peer review and editorial services at The Electronic Handbook of Data Science are completely free of charge for readers.
+Peer-Review und redaktionelle Dienstleistungen des Elektronischen Handbuchs der Data Science sind für Leser:innen vollständig kostenlos.
 
-Interested companies and readers are encouraged to follow the editor’s and handbook’s main page as well as the authors’ stories officially with the appended follower and clapping buttons.
+Interessierte Unternehmen und Leser:innen werden ermutigt, der Hauptseite des Handbuchs und des Herausgebers sowie den Geschichten der Autor:innen offiziell über die angefügten Folgen- und Klatsch-Buttons zu folgen.
 
-Information for contributors:
+Informationen für Beitragende:
 
-The Electronic Handbook of Data Science allows the subscription of writers as independent authors for the journal without any warranty for acceptance of articles or without any further contractual relation to the journal and the journal’s editor.
+Das Elektronische Handbuch der Data Science ermöglicht es Autor:innen, sich unabhängig als Schreibende für das Journal zu registrieren – jedoch ohne Garantie auf Annahme von Artikeln und ohne vertragliche Bindung an das Journal oder den Herausgeber.
 
-Contributors who are interested in publishing stories as an independent author about their daily business or the development of their own Data Science stories may send an inquiry to ejp@krealix.de.
+Beitragende, die daran interessiert sind, Geschichten als unabhängige Autor:innen über ihren Arbeitsalltag oder die Entwicklung eigener Data-Science-Projekte zu veröffentlichen, können eine Anfrage an ejp@krealix.de senden.
 
-Peer review before acceptance or rejection is performed within two to four weeks after submission by officially subscribed authors.
+Die Begutachtung (Peer Review) zur Annahme oder Ablehnung erfolgt innerhalb von zwei bis vier Wochen nach Einreichung durch offiziell registrierte Autor:innen.
 
 *********************************************************************************************************************
 
