@@ -1,6 +1,6 @@
 # Pjax
 
-[![Build Status](https://img.shields.io/travis/MoOx/pjax.svg)](https://travis-ci.org/MoOx/pjax).
+[[Build Status](https://img.shields.io/travis/MoOx/pjax.svg)](https://travis-ci.org/MoOx/pjax).
 
 > Easily enable fast AJAX navigation on any website (using pushState() + XHR)
 
