@@ -18,6 +18,12 @@ Beitragende, die daran interessiert sind, Anwendungsfälle und Stories als unabh
 
 Die Begutachtung (Peer Review) zur Annahme oder Ablehnung von Artikeln erfolgt innerhalb von zwei bis vier Wochen nach Einreichung durch offiziell registrierte Autor:innen durch den Editor (Dr. A. Schelle).
 
+*Informationen für Sponsoren:*
+
+Das Journal sucht Sponsoren, die an der Unterstützung der Veröffentlichung von User Stories im Journal sowie an der Entwicklung prädiktiver und generativer Modelle interessiert sind.
+
+Zögern Sie nicht, den Herausgeber unter ejp@krealix.de zu kontaktieren.
+
 # The Electronic Handbook of Data Science (EN)
 
 The Electronic Handbook of Data Science is a digital compendium that reports on knowledge, news, and trends in the field of data science. It is divided into the topics of algorithms, data structures, machine learning, programming languages and software, and particularly supports the publication of NLP-generated user stories and applications.
@@ -37,6 +43,12 @@ The Electronic Handbook of Data Science enables authors to independently registe
 Contributors who are interested in publishing use cases and stories as independent authors about their everyday work or the development of their own data science projects – thereby supporting the development of generative data models – can do so by sending a request to ejp@krealix.de.
 
 The peer review for acceptance or rejection of articles is conducted within two to four weeks after submission by officially registered authors by the editor (Dr. A. Schelle).
+
+*Information for sponsors:*
+
+The journal seeks sponsors that are interested in supporting the publication of user stories in the journal and the development of predictive and generative models.
+
+Don’t hesitate to get in touch with the editor at ejp@krealix.de.
 
 # AI-Generative-IoT 
 
