@@ -20,7 +20,7 @@ Die Begutachtung (Peer Review) zur Annahme oder Ablehnung von Artikeln erfolgt i
 
 *Informationen für Sponsoren:*
 
-Der Editor sucht Sponsoren, die an der Unterstützung der Veröffentlichung von User Stories im Journal sowie an der Entwicklung prädiktiver und generativer Modelle interessiert sind.
+Der Editor sucht Sponsoren, die an der Unterstützung der Veröffentlichung von User Stories im Journal sowie an der Entwicklung generativer Modelle mit Vorhersagecharakter interessiert sind.
 
 Zögern Sie nicht, den Herausgeber unter ejp@krealix.de zu kontaktieren.
 
