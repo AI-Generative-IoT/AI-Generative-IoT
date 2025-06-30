@@ -2,7 +2,7 @@
 
 Das Electronic Handbook of Data Science ist ein elektronisches Handbuch, welches Wissen, Neuigkeiten und Trends im Bereich Data Science berichtet. Es ist unterteilt in die Themen Algorithmen, Datenstrukturen, Maschinelles Lernen, Programmiersprachen und Software, und erlaubt insbesondere die Publikation von NLP generierten Nutzer-Geschichten und Anwendungen.
 
-Die Entwicklung des Handbuchs umfasst allgemein herausragende Arbeiten aus Github.com Repositories, welche unter MIT Lizenz freigegeben sind, und auch generative Modelle für realistische Anwendungsfälle, die aus künstlich erzeugten Daten generiert werden, welche ihrerseits generisch aus Originaldatenquellen abgeleitet sind und unter Github.com zur Verfügung gestellt werden. Dabei werden die Nutzerstories unter https://medium.com/the-electronic-handbook-of-data-science durch Autoren und den Editor von The Electronic Handbook of Data Science erstellt und Stories zu den Repositories aus unterschiedlichsten Quellen im Ecosystem Github.com berichtet.  
+Die Entwicklung des Handbuchs umfasst allgemein herausragende Arbeiten aus Github.com Repositories, welche unter MIT Lizenz freigegeben sind, und auch generative Modelle für realistische Anwendungsfälle, die aus künstlich erzeugten Daten generiert werden, welche ihrerseits generisch aus Originaldatenquellen abgeleitet sind und unter Github.com zur Verfügung gestellt werden. Dabei werden die Nutzerstories unter https://medium.com/the-electronic-handbook-of-data-science durch Autoren und den Editor von The Electronic Handbook of Data Science erstellt und Stories zu Anwendungsfällen und Repositories aus unterschiedlichsten Quellen des Ecosystems Github.com berichtet.  
 
 *Informationen für Leser:innen:*
 
