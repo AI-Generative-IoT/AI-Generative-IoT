@@ -20,7 +20,7 @@ Die Begutachtung (Peer Review) zur Annahme oder Ablehnung von Artikeln erfolgt i
 
 *Informationen für Sponsoren:*
 
-Der Editor sucht Sponsoren, die an der Unterstützung der Veröffentlichung von User Stories im Journal sowie an der Entwicklung generativer Modelle mit Vorhersagecharakter interessiert sind.
+Der Editor freut sich über Sponsoren, die an der Unterstützung der Veröffentlichung von User Stories im Journal sowie an der Entwicklung generativer Modelle mit Vorhersagecharakter interessiert sind.
 
 Zögern Sie nicht, den Herausgeber unter ejp@krealix.de zu kontaktieren.
 
@@ -46,7 +46,7 @@ The peer review for acceptance or rejection of articles is conducted within two 
 
 *Information for sponsors:*
 
-The editor seeks sponsors that are interested in supporting the publication of user stories in the journal and the development of predictive and generative models.
+The editor acknowledges sponsors that are interested in supporting the publication of user stories in the journal and the development of predictive and generative models.
 
 Don’t hesitate to get in touch with the editor at ejp@krealix.de.
 
@@ -59,10 +59,6 @@ Durch die Anwendungen der auf diese Art entwickelten Modelle können grundsätzl
 # Autor(en)
 
 *********************************************************************************************************************
-
-    IU Internationale Hochschule & Constructor University 
-    
-    mit
     
     Univ.-Doz. Dr. Alexej Schelle
 
